@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MVVM-iOS_Example' do
+  pod 'MVVM-iOS', :path => '../'
+
+  target 'MVVM-iOS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
