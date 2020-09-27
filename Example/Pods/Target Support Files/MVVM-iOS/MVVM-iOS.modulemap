@@ -1,0 +1,6 @@
+framework module MVVM_iOS {
+  umbrella header "MVVM-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -16,7 +16,12 @@
 
 - (void)viewDidLoad
 {
+//    NSLog(@"viewDidLoad--pre");
     [super viewDidLoad];
+//    NSLog(@"viewDidLoad--post");
+    
+//    [self mvvm_viewWillAppear:YES];
+
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

@@ -6,6 +6,9 @@
 [![Platform](https://img.shields.io/cocoapods/p/MVVM-iOS.svg?style=flat)](https://cocoapods.org/pods/MVVM-iOS)
 
 ## Example
+### 暂时只实现了 controller & viewModel 的绑定
+### view 与viewModel 怎么绑定 viewModel 与model 的关系如何优化 是个问题
+### 一个view 绑定多个 viewModel 怎么处理
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
